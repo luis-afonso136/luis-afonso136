@@ -1,7 +1,8 @@
 ## Hi there 👋
 My name is Luis and I'm a web development student in IPVC.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-afonso136&layout=donut)](https://github.com/luis-afonso136/github-readme-stats)
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-afonso136&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117" />
+
 
 ### 💻 Technologies that I use
 <div style="display: inline_block">
