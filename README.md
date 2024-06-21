@@ -1,5 +1,4 @@
 ## Hi there 👋
-### ✨ Who am I?
 My name is Luis and I'm a web development student in IPVC.
 
 #### 💻 Technologies that I use
