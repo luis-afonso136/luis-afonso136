@@ -1,5 +1,6 @@
 ## Hi there 👋
 My name is Luis and I'm a web development student in IPVC.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/luis-afonso136/github-readme-stats)
 
 ### 💻 Technologies that I use
 <div style="display: inline_block">
