@@ -7,6 +7,7 @@ My name is Luis and I'm a web development student in IPVC.
 ### 💻 Technologies that I use
 <div style="display: inline_block">
   <img align="center" alt="Luis-NextJS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Luis-Lua" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center" alt="Luis-react" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luis-Angular" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="Luis-JS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
