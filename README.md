@@ -6,7 +6,6 @@ My name is Luis and I'm a Software Developer student in IPVC.
 
 ### 💻 Technologies that I use
 <div style="display: inline_block">
-  <img align="center" alt="Luis-Lua" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center" alt="Luis-C#" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Luis-Python" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luis-NextJS" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
