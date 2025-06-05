@@ -1,5 +1,5 @@
-## Hi there 👋
-My name is Luis and I'm a Software Developer student in IPVC.
+## 👋 Hi, my name is Luis Afonso
+I’m a Software Developer specialized in Large Language Models (LLM), with practical experience in building intelligent systems and working on game-related projects. I bring solid AI knowledge and a creative approach to solve real-world challenges efficiently.
 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-afonso136&layout=compact&hide_border=true&theme=transparent&bg_color=0d1117" />
 
