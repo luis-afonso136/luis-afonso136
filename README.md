@@ -11,13 +11,6 @@ I’m a Software Developer specialized in Large Language Models (LLM), with prac
 ![](https://github-readme-stats.vercel.app/api?username=luis-afonso136&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=luis-afonso136&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-afonso136&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-afonso136&layout=compact&hide_border=true&theme=transparent&bg_color=0d1117" />
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=luis-afonso136&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=luis-afonso136&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
