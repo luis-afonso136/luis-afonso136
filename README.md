@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m a Software Developer specialized in Large Language Models (LLM), with practical experience in building intelligent systems and working on game-related projects. I bring solid AI knowledge and a creative approach to solve real-world challenges efficiently.
-
+I'm a 23-year-old developer experienced in small indie games and Unity mobile titles. I specialize in building game logic and backend systems using C#, Lua, and C++.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-afonso-730857350/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luisafonso912@gmail.com) 
